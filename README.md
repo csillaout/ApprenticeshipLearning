@@ -1,5 +1,4 @@
-# ApprenticeshipLearning
-
+ApprenticeshipLearning
 Learning: Python, SQL, React
 
 # Entry Level
