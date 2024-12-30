@@ -2,7 +2,9 @@
 
 Learning: Python, SQL, React
 
-1.  Python Data Essentials -Python Intorduction by Faisal Memon on Pluralsight (24/12/24)
+# Entry Level
+
+1.  Python Data Essentials: Python Intorduction - Pluralsight - Faisal Memon on Pluralsight - 24/12/24
 
     - Data Structures
     - Operators
@@ -55,3 +57,17 @@ Learning: Python, SQL, React
                  ## Pros and Cons
                     - Pros: Comprehensive Standard Library, Community - driven, 3rd Party Libraries, 3rd Party Tools,
                     - Cons: Interpreted (makes it slow), Not Native(mobile and webbrowser useage is limited), Dynamic(runtime errors)
+
+---
+
+3.  Python Basics and Data Structure - Pluralsight - Lab - 30/12/24
+
+    - Building a digital cookbook app
+    - Data Types
+    - Designing the Recipe Data Structure (name, ingredients, instructions)
+    - Putting it all together
+
+                 ## Listing recipes
+                          - for loops
+                 ## Query recipes
+                          -
