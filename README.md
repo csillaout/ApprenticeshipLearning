@@ -55,7 +55,7 @@ Learning: Python, SQL, React
                     - Dynamically-typed
                  ## Pros and Cons
                     - Pros: Comprehensive Standard Library, Community - driven, 3rd Party Libraries, 3rd Party Tools,
-                    - Cons: Interpreted (makes it slow), Not Native(mobile and webbrowser useage is limited), Dynamic(runtime errors)
+                    - Cons: Interpreted (makes it slow), Not Native(mobile and webrowser usage is limited), Dynamic(runtime errors)
 
 ---
 
@@ -74,7 +74,7 @@ Learning: Python, SQL, React
 
 ---
 
-3.  Python Standard Library - Pluralsight - Lab - 30/12/24
+4.  Python Standard Library - Pluralsight - Lab - 30/12/24
 
     - Understand data serialization and its importance
     - Explore the Pickle module in Python for data serialisation
@@ -91,3 +91,13 @@ Learning: Python, SQL, React
                         - How to serialize and deserialize data to and from bytes objects, which is useful in scenarios such as network transmission or database storage
                  ## Modifying the Main Function
                         - Incorporrated loading and saving recipes in the main function to ensure data persistence across different runs of the application
+
+---
+
+5.  Build a Library System with Python - Pluralsight - Lab - 30/12/24
+
+    - In this hands-on project, we will construct an object-orientd "library system" with Python
+    - We design 3 core classes: Book, Borrower and Library to stimulate fundamental librery operations, such as adding books, schecking out, and returning items.
+
+                 ## Data Serialization
+                        -  The process of converting in - memory objects into a format that can be saved to disk or transmitted over a network,
