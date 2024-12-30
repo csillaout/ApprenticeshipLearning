@@ -5,8 +5,6 @@ def list_recipes():
     for recipe in recipes:
         print(f'{recipe["ingredients"]}\nIngredients:{recipe["ingredients"]}\nInstructions:{recipe["instructions"]}')
 
-
-
 #find recipe by name
 def query_recipe():
     query_name = input("Enter the name of the recipe you want ot saerch for:")
@@ -21,8 +19,6 @@ def query_recipe():
             print(f"\nRecipe: {recipe['name']}\nIngredients:{ingredients_str}\nInstructions:{recipe['instructions']}\n")
     else:
         print("No matching recipes found")
-
-
 
 #find recipe by ingredient
 def find_recipe_by_ingredients(available_ingredients):
