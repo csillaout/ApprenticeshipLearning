@@ -1,6 +1,6 @@
 recipes = [
     {
-        "name":"Pancake",
+        "name": "Pancake",
         "ingredients":[
             {"item":"egg","quantity":2},
             {"item":"flour","quantity":150,"measurement":"gr"},

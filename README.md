@@ -67,6 +67,6 @@ Learning: Python, SQL, React
     - Putting it all together
 
                  ## Listing recipes
-                          - for loops
-                 ## Query recipes
-                          -
+                          - for loops: listing the entire recipe book recipe by recipe
+                 ## Query recipes(searching for recipe by name)
+                          - upon execution, the user will be promped to enter a recipe name. The goal is to filter the existing recipes and retrieve those that match the user-provided name, populating the results into the found_recipes variable
