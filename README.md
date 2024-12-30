@@ -30,3 +30,28 @@ Learning: Python, SQL, React
                           - What are lists in Python
                           - Tuples
                           - Sets
+
+---
+
+2.  Python3: The Big Picture - Pluralsight - Jason Olson - 30/12/2024
+
+    - Pythons desing philosphy
+    - Explore Python itself
+    - Pros and cons of Python
+
+                 ## Why Python?
+                    - Simple to learn
+                    - Simple to use
+                    - Great Community
+                    - Widely used
+                    - High demand
+                 ## What is Python?
+                    - Syntax - white spce
+                    - General -purpose
+                    - Multi-paradigm
+                    - Interpreted
+                    - Garbage-collected
+                    - Dynamically-typed
+                 ## Pros and Cons
+                    - Pros: Comprehensive Standard Library, Community - driven, 3rd Party Libraries, 3rd Party Tools,
+                    - Cons: Interpreted (makes it slow), Not Native(mobile and webbrowser useage is limited), Dynamic(runtime errors)
