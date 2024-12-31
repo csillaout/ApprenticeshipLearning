@@ -96,8 +96,16 @@ Learning: Python, SQL, React
 
 5.  Build a Library System with Python - Pluralsight - Lab - 30/12/24
 
-    - In this hands-on project, we will construct an object-orientd "library system" with Python
+    - In this hands-on project, we will construct an object-oriented "library system" with Python
     - We design 3 core classes: Book, Borrower and Library to stimulate fundamental librery operations, such as adding books, schecking out, and returning items.
+    - Interactions between objects: as we developed these classes, we had also implement methods that allow these objects to interact.
 
-                 ## Data Serialization
-                        -  The process of converting in - memory objects into a format that can be saved to disk or transmitted over a network,
+---
+
+6.  Regex Foundations and Essentials - Pluralsight - Lab - 31/12/24
+
+    - Understanding the foundations of Regex and how to implement it in the pythoon programming language
+    - Regex is a short regular expressions and its a means of creating a pattern that can be used to match a specific type fo data. Example: phone number. Using Regex we can take any piece of information with a distinct pattern and create code that can parse data and collect anuthing matching that pattern.
+
+                 ## Common Matching Pattern
+                        - ```\d```: This caharacter matches any digit [0-9]
