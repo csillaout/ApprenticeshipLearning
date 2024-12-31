@@ -41,21 +41,21 @@ Learning: Python, SQL, React
     - Pros and cons of Python
 
                  ## Why Python?
-                    - Simple to learn
-                    - Simple to use
-                    - Great Community
-                    - Widely used
-                    - High demand
+                            - Simple to learn
+                            - Simple to use
+                            - Great Community
+                            - Widely used
+                            - High demand
                  ## What is Python?
-                    - Syntax - white spce
-                    - General -purpose
-                    - Multi-paradigm
-                    - Interpreted
-                    - Garbage-collected
-                    - Dynamically-typed
+                            - Syntax - white spce
+                            - General -purpose
+                            - Multi-paradigm
+                            - Interpreted
+                            - Garbage-collected
+                            - Dynamically-typed
                  ## Pros and Cons
-                    - Pros: Comprehensive Standard Library, Community - driven, 3rd Party Libraries, 3rd Party Tools,
-                    - Cons: Interpreted (makes it slow), Not Native(mobile and webrowser usage is limited), Dynamic(runtime errors)
+                            - Pros: Comprehensive Standard Library, Community - driven, 3rd Party Libraries, 3rd Party Tools,
+                            - Cons: Interpreted (makes it slow), Not Native(mobile and webrowser usage is limited), Dynamic(runtime errors)
 
 ---
 
@@ -82,15 +82,15 @@ Learning: Python, SQL, React
     - Enhance a recipe book application for data persistence between sessions
 
                  ## Data Serialization
-                        -  The process of converting in - memory objects into a format that can be saved to disk or transmitted over a network, and later reconstructed.
+                            -  The process of converting in - memory objects into a format that can be saved to disk or transmitted over a network, and later reconstructed.
                  ## Pickle Module
-                        - A Python module that provides functionalities for serializing and deserializing Python objects
+                            - A Python module that provides functionalities for serializing and deserializing Python objects
                  ## Implementing Load and Save Functions
-                        - Created functions to handle the loading and saving of data to ensure the persistence of application state.
+                            - Created functions to handle the loading and saving of data to ensure the persistence of application state.
                  ## Pickling without a File
-                        - How to serialize and deserialize data to and from bytes objects, which is useful in scenarios such as network transmission or database storage
+                            - How to serialize and deserialize data to and from bytes objects, which is useful in scenarios such as network transmission or database storage
                  ## Modifying the Main Function
-                        - Incorporrated loading and saving recipes in the main function to ensure data persistence across different runs of the application
+                            - Incorporrated loading and saving recipes in the main function to ensure data persistence across different runs of the application
 
 ---
 
@@ -104,24 +104,26 @@ Learning: Python, SQL, React
 
 6.  Regex Foundations and Essentials - Pluralsight - Lab - 31/12/24
 
-        - Understanding the foundations of Regex and how to implement it in the pythoon programming language
-        - Regex is a short regular expressions and it's a means of creating a pattern that can be used to match a specific type fo data. Example: phone number. Using Regex we can take any piece of information with a distinct pattern and create code that can parse data and collect anything matching that pattern.
-        - Exercises:
-            - First_Scripts
-            - Input_Validation
-            - Log_Search
-            - Filtered_Log_Data
-            - Final_Project
+    - Understanding the foundations of Regex and how to implement it in the pythoon programming language
+    - Regex is a short regular expressions and it's a means of creating a pattern that can be used to match a specific type fo data. Example: phone number. Using Regex we can take any piece of information with a distinct pattern and create code that can parse data and collect anything matching that pattern.
 
-                     ## Common Matching Pattern
+      - Exercises:
+
+        - First_Scripts
+        - Input_Validation
+        - Log_Search
+        - Filtered_Log_Data
+        - Final_Project
+
+                 ## Common Matching Pattern
                             - \d: This caharacter matches any digit [0-9]
                             - \w: Matches any word character [a-z or A-Z]
                             - \s: Any white space character
-                     ## Common Quantitative Patterns
+                 ## Common Quantitative Patterns
                             - '+': Matches one or more of a pattern. E.g \d+means one or more digits
                             - '?': Means zero or one of a pattern
                             - '*': Means zero or more of a pattern
-                     ## Escape Characters
+                 ## Escape Characters
 
     [REGEX]
     (https://regex101.com)
