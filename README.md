@@ -127,3 +127,68 @@ Learning: Python, SQL, React
 
     [REGEX]
     (https://regex101.com)
+
+    The list of Regex: Certainly! Below is a list of common regex metacharacters and character classes used in Python regular expressions, similar to `\d`, `\s`, and `\w`.
+
+### Common Regex Metacharacters and Character Classes:
+
+1. **`\d`**: Matches any digit, equivalent to `[0-9]`.
+2. **`\D`**: Matches any non-digit character, equivalent to `[^0-9]`.
+3. **`\s`**: Matches any whitespace character (space, tab, newline, etc.), equivalent to `[ \t\n\r\f\v]`.
+4. **`\S`**: Matches any non-whitespace character, equivalent to `[^ \t\n\r\f\v]`.
+5. **`\w`**: Matches any word character (alphanumeric and underscore), equivalent to `[a-zA-Z0-9_]`.
+6. **`\W`**: Matches any non-word character, equivalent to `[^a-zA-Z0-9_]`.
+
+### Additional Useful Metacharacters and Character Classes:
+
+7. **`.`**: Matches any character except a newline.
+8. **`^`**: Matches the start of the string.
+9. **`$`**: Matches the end of the string.
+10. **`\b`**: Matches a word boundary.
+11. **`\B`**: Matches a non-word boundary.
+12. **`\A`**: Matches the start of the string (similar to `^` but not affected by multiline mode).
+13. **`\Z`**: Matches the end of the string (similar to `$` but not affected by multiline mode).
+14. **`\`**: Escapes a special character, allowing it to be used as a literal character.
+
+### Quantifiers:
+
+15. **`*`**: Matches 0 or more repetitions of the preceding pattern.
+16. **`+`**: Matches 1 or more repetitions of the preceding pattern.
+17. **`?`**: Matches 0 or 1 repetition of the preceding pattern.
+18. **`{n}`**: Matches exactly `n` repetitions of the preceding pattern.
+19. **`{n,}`**: Matches `n` or more repetitions of the preceding pattern.
+20. **`{n,m}`**: Matches between `n` and `m` repetitions of the preceding pattern.
+
+### Groups and Alternation:
+
+21. **`(abc)`**: Matches the exact string "abc".
+22. **`(a|b|c)`**: Matches any one of the alternatives, "a", "b", or "c".
+23. **`(?:...)`**: Non-capturing group, groups the pattern without capturing.
+24. **`(?P<name>...)`**: Named capturing group, captures the matched text into a group named `name`.
+
+### Lookahead and Lookbehind:
+
+25. **`(?=...)`**: Positive lookahead, asserts that what follows the position is `...`.
+26. **`(?!...)`**: Negative lookahead, asserts that what follows the position is not `...`.
+27. **`(?<=...)`**: Positive lookbehind, asserts that what precedes the position is `...`.
+28. **`(?<!...)`**: Negative lookbehind, asserts that what precedes the position is not `...`.
+
+### Character Classes:
+
+29. **`[abc]`**: Matches any one of the characters "a", "b", or "c".
+30. **`[^abc]`**: Matches any character except "a", "b", or "c".
+31. **`[a-z]`**: Matches any character in the range "a" to "z".
+32. **`[A-Z]`**: Matches any character in the range "A" to "Z".
+33. **`[0-9]`**: Matches any digit in the range "0" to "9".
+
+### Escape Sequences for Special Characters:
+
+34. **`\n`**: Matches a newline character.
+35. **`\r`**: Matches a carriage return character.
+36. **`\t`**: Matches a tab character.
+37. **`\f`**: Matches a form feed character.
+38. **`\v`**: Matches a vertical tab character.
+39. **`\xhh`**: Matches the character with the hexadecimal value `hh`.
+40. **`\uhhhh`**: Matches the Unicode character with the hexadecimal value `hhhh`.
+
+These metacharacters and character classes are the building blocks of regular expressions in Python. They allow you to create powerful patterns for matching and manipulating text.
