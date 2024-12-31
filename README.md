@@ -104,8 +104,24 @@ Learning: Python, SQL, React
 
 6.  Regex Foundations and Essentials - Pluralsight - Lab - 31/12/24
 
-    - Understanding the foundations of Regex and how to implement it in the pythoon programming language
-    - Regex is a short regular expressions and its a means of creating a pattern that can be used to match a specific type fo data. Example: phone number. Using Regex we can take any piece of information with a distinct pattern and create code that can parse data and collect anuthing matching that pattern.
+        - Understanding the foundations of Regex and how to implement it in the pythoon programming language
+        - Regex is a short regular expressions and it's a means of creating a pattern that can be used to match a specific type fo data. Example: phone number. Using Regex we can take any piece of information with a distinct pattern and create code that can parse data and collect anything matching that pattern.
+        - Exercises:
+            - First_Scripts
+            - Input_Validation
+            - Log_Search
+            - Filtered_Log_Data
+            - Final_Project
 
-                 ## Common Matching Pattern
-                        - ```\d```: This caharacter matches any digit [0-9]
+                     ## Common Matching Pattern
+                            - \d: This caharacter matches any digit [0-9]
+                            - \w: Matches any word character [a-z or A-Z]
+                            - \s: Any white space character
+                     ## Common Quantitative Patterns
+                            - '+': Matches one or more of a pattern. E.g \d+means one or more digits
+                            - '?': Means zero or one of a pattern
+                            - '*': Means zero or more of a pattern
+                     ## Escape Characters
+
+    [REGEX]
+    (https://regex101.com)
