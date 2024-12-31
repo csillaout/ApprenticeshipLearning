@@ -128,8 +128,6 @@ Learning: Python, SQL, React
     [REGEX]
     (https://regex101.com)
 
-    The list of Regex: Certainly! Below is a list of common regex metacharacters and character classes used in Python regular expressions, similar to `\d`, `\s`, and `\w`.
-
 ### Common Regex Metacharacters and Character Classes:
 
 1. **`\d`**: Matches any digit, equivalent to `[0-9]`.
